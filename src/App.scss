@@ -21,11 +21,12 @@ body {
 #site-header {
 	display: flex;
 	align-items: center;
-	margin: 4rem 0 1rem 0;
-	font-size: 4rem;
+	margin: 3rem 0 1rem 0;
+	font-size: 3.5rem;
+	font-family: 'Open Sans', sans-serif;
 
 	span {
-		font-size: 2.8rem;
+		font-size: 2.5rem;
 	}
 }
 
@@ -41,7 +42,6 @@ body {
 }
 
 .site-container {
-
 	h3 {
 		font-family: 'Roboto Mono', monospace;
 	}
@@ -49,7 +49,6 @@ body {
 	.site-card {
 		position: relative;
 		margin: 1rem 0;
-		width: 40vw;
 		aspect-ratio: 16/9;
 		border: 2px solid black;
 		border-radius: 0.5rem;
@@ -101,6 +100,19 @@ h1,
 h2,
 h3,
 h4 {
-	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
+}
+
+h2 {
+	animation-delay: 1s;
+}
+
+hr {
+	position: relative;
+	right: 15%;
+	margin: 1rem 0;
+	border: 0;
+	border-top: 2px solid black;
+	opacity: 1;
+	width: 130%;
 }
