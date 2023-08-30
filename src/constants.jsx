@@ -3,14 +3,14 @@ export const PIPELINES = [
 		title: "ViralWasm-Consensus",
 		description: "A serverless WebAssembly-based pipeline for consensus genome generation.",
 		link: "https://niema-lab.github.io/ViralWasm-Consensus",
-		imageUrl: '/images/viralwasm-consensus.png',
+		imageUrl: './images/viralwasm-consensus.png',
 		width: undefined,
 	},
 	{
 		title: "ViralWasm-Epi",
 		description: "A serverless WebAssembly-based pipeline for multi-sequence alignment and molecular clustering.",
 		link: "https://niema-lab.github.io/ViralWasm-Epi",
-		imageUrl: '/images/viralwasm-epi.png',
+		imageUrl: './images/viralwasm-epi.png',
 		width: undefined,
 	}
 ]
