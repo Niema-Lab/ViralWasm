@@ -31,9 +31,15 @@ body {
 }
 
 #site-subheader {
-	margin: 0 0 6rem 0;
 	font-size: 1.25rem;
 	font-family: 'Roboto Mono', monospace;
+	animation-delay: 0.5s;
+}
+
+#site-citation {
+	font-size: .9rem;
+	margin: 0 0 5rem 0;
+	padding: 0 6rem;
 	animation-delay: 0.5s;
 }
 
