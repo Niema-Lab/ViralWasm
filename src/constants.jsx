@@ -27,7 +27,7 @@ export const STANDALONE_TOOLS = [
 		title: "ViralConsensus",
 		description: "Fast viral consensus genome reconstruction.",
 		link: "https://niema.net/ViralConsensus",
-		imageUrl: '/images/viralwasm-epi.png',
+		imageUrl: '/images/viralconsensus.png',
 		width: "28vw"
 	},
 	{
